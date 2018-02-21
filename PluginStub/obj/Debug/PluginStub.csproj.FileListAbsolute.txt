@@ -1,0 +1,10 @@
+C:\Users\Maks\Downloads\Paint-master\Paint-master\PluginStub\bin\Debug\PluginStub.dll
+C:\Users\Maks\Downloads\Paint-master\Paint-master\PluginStub\bin\Debug\PluginStub.pdb
+C:\Users\Maks\Downloads\Paint-master\Paint-master\PluginStub\obj\Debug\PluginStub.dll
+C:\Users\Maks\Downloads\Paint-master\Paint-master\PluginStub\obj\Debug\PluginStub.pdb
+C:\Users\Maks\Downloads\Paint-master\Paint-master\PluginStub\obj\Debug\PluginStub.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Downloads\Paint\PluginStub\bin\Debug\PluginStub.dll
+C:\Users\Maks\Downloads\Paint\PluginStub\bin\Debug\PluginStub.pdb
+C:\Users\Maks\Downloads\Paint\PluginStub\obj\Debug\PluginStub.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Downloads\Paint\PluginStub\obj\Debug\PluginStub.dll
+C:\Users\Maks\Downloads\Paint\PluginStub\obj\Debug\PluginStub.pdb

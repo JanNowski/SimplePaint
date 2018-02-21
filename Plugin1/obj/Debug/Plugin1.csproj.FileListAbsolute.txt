@@ -1,0 +1,14 @@
+C:\Users\Maks\Downloads\Paint-master\Paint-master\Plugin1\bin\Debug\Plugin1.dll
+C:\Users\Maks\Downloads\Paint-master\Paint-master\Plugin1\bin\Debug\Plugin1.pdb
+C:\Users\Maks\Downloads\Paint-master\Paint-master\Plugin1\obj\Debug\Plugin1.dll
+C:\Users\Maks\Downloads\Paint-master\Paint-master\Plugin1\obj\Debug\Plugin1.pdb
+C:\Users\Maks\Downloads\Paint-master\Paint-master\Plugin1\bin\Debug\PluginStub.dll
+C:\Users\Maks\Downloads\Paint-master\Paint-master\Plugin1\bin\Debug\PluginStub.pdb
+C:\Users\Maks\Downloads\Paint-master\Paint-master\Plugin1\obj\Debug\Plugin1.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Downloads\Paint\Plugin1\bin\Debug\Plugin1.dll
+C:\Users\Maks\Downloads\Paint\Plugin1\bin\Debug\Plugin1.pdb
+C:\Users\Maks\Downloads\Paint\Plugin1\bin\Debug\PluginStub.dll
+C:\Users\Maks\Downloads\Paint\Plugin1\bin\Debug\PluginStub.pdb
+C:\Users\Maks\Downloads\Paint\Plugin1\obj\Debug\Plugin1.csprojResolveAssemblyReference.cache
+C:\Users\Maks\Downloads\Paint\Plugin1\obj\Debug\Plugin1.dll
+C:\Users\Maks\Downloads\Paint\Plugin1\obj\Debug\Plugin1.pdb
